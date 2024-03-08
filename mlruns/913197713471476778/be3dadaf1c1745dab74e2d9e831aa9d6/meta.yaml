@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.Test_Projet-07_Mars2024/mlruns/913197713471476778/be3dadaf1c1745dab74e2d9e831aa9d6/artifacts
+end_time: 1709717877310
+entry_point_name: ''
+experiment_id: '913197713471476778'
+lifecycle_stage: active
+run_id: be3dadaf1c1745dab74e2d9e831aa9d6
+run_name: Dense_Baseline
+run_uuid: be3dadaf1c1745dab74e2d9e831aa9d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709717863341
+status: 3
+tags: []
+user_id: kfaiz

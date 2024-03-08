@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.Test_Projet-07_Mars2024/mlruns/938702359444594407/aeec0aaf0ec34e10ab17f9ed07500e3e/artifacts
+end_time: 1709717841926
+entry_point_name: ''
+experiment_id: '938702359444594407'
+lifecycle_stage: active
+run_id: aeec0aaf0ec34e10ab17f9ed07500e3e
+run_name: Bernouilli
+run_uuid: aeec0aaf0ec34e10ab17f9ed07500e3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709717838543
+status: 3
+tags: []
+user_id: kfaiz

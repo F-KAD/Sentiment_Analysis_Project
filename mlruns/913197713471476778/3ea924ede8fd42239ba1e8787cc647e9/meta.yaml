@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.Test_Projet-07_Mars2024/mlruns/913197713471476778/3ea924ede8fd42239ba1e8787cc647e9/artifacts
+end_time: 1709718562032
+entry_point_name: ''
+experiment_id: '913197713471476778'
+lifecycle_stage: active
+run_id: 3ea924ede8fd42239ba1e8787cc647e9
+run_name: LSTM_lem
+run_uuid: 3ea924ede8fd42239ba1e8787cc647e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709718461254
+status: 3
+tags: []
+user_id: kfaiz

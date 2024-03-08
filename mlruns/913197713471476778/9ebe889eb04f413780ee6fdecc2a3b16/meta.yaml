@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.Test_Projet-07_Mars2024/mlruns/913197713471476778/9ebe889eb04f413780ee6fdecc2a3b16/artifacts
+end_time: 1709720647949
+entry_point_name: ''
+experiment_id: '913197713471476778'
+lifecycle_stage: active
+run_id: 9ebe889eb04f413780ee6fdecc2a3b16
+run_name: LSTM_Glove
+run_uuid: 9ebe889eb04f413780ee6fdecc2a3b16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709720517011
+status: 3
+tags: []
+user_id: kfaiz

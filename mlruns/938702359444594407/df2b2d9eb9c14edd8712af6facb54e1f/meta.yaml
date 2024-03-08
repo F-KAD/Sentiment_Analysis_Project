@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.Test_Projet-07_Mars2024/mlruns/938702359444594407/df2b2d9eb9c14edd8712af6facb54e1f/artifacts
+end_time: 1709717834699
+entry_point_name: ''
+experiment_id: '938702359444594407'
+lifecycle_stage: active
+run_id: df2b2d9eb9c14edd8712af6facb54e1f
+run_name: SVM
+run_uuid: df2b2d9eb9c14edd8712af6facb54e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709717831062
+status: 3
+tags: []
+user_id: kfaiz

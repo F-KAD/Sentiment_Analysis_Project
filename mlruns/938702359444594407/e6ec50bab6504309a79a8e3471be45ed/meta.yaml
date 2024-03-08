@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.Test_Projet-07_Mars2024/mlruns/938702359444594407/e6ec50bab6504309a79a8e3471be45ed/artifacts
+end_time: 1709717831028
+entry_point_name: ''
+experiment_id: '938702359444594407'
+lifecycle_stage: active
+run_id: e6ec50bab6504309a79a8e3471be45ed
+run_name: Dummy
+run_uuid: e6ec50bab6504309a79a8e3471be45ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709717826704
+status: 3
+tags: []
+user_id: kfaiz

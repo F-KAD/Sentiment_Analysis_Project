@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kfaiz/7.Test_Projet-07_Mars2024/mlruns/938702359444594407/928d0118fe53461a88a09b979e7a64fe/artifacts
+end_time: 1709717853581
+entry_point_name: ''
+experiment_id: '938702359444594407'
+lifecycle_stage: active
+run_id: 928d0118fe53461a88a09b979e7a64fe
+run_name: Bernouilli_optimisé_test
+run_uuid: 928d0118fe53461a88a09b979e7a64fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709717850134
+status: 3
+tags: []
+user_id: kfaiz
